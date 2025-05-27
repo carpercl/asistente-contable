@@ -1,1 +1,0 @@
-Versión funcional del Asistente Contable lista para GitHub y Vercel.
